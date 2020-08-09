@@ -3,7 +3,11 @@
 
 
 
-def find_knock(self, parameter_list):
-    pass
+def find_knock(df,):
+
+    feedbackKnock = np.whwere(df != 0 )
+    print(feedbackKnock)
+
+    pass(feedbackKnock)
 
 
